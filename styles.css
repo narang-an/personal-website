@@ -1,0 +1,60 @@
+/* Reset some default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  background-color: rgb(152, 227, 241);
+  color: #333;
+  padding: 20px;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #308bcb;
+}
+
+/* Headings */
+h1 {
+  font-size: 2.5rem;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+div {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  display: block;
+  margin-top: 20px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
