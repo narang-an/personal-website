@@ -1,0 +1,6 @@
+Link to website: https://narang-an.github.io/personal-website/index.html
+
+I added a background color and set a default font. I also changed the colors of certain font headings. 
+I made a nav bar where the font changes color when the user hover's over the link. In the experience 
+section I found some code for a basic timeline that looked really cool though W3Schools tutorial. I adapted 
+this CSS by changing the layout, colors, and shapes of the boxes a bit.
